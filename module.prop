@@ -1,7 +1,7 @@
 id=fix-signal-oneplus13
 name=Fixes for OnePlus 13
-version=v3.2
-versionCode=302
+version=v3.3
+versionCode=303
 author=Fly
 description=Fix signal and bootloop for OnePlus 13 CN on OxygenOS 15. **To fix bootloop, press "Action" below before you click the "Reboot" after finishing OTA System Update.**
 updateJson=https://raw.githubusercontent.com/K58/fix-signal-oneplus13/main/update.json
