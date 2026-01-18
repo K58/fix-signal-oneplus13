@@ -75,3 +75,4 @@ Your device will **brick** if you relock the bootloader with any modifications t
 
 - [rapperskull](https://github.com/rapperskull)
 
+
