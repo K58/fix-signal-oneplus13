@@ -4,6 +4,20 @@ Fix signal and bootloop for OnePlus 13 CN on OxygenOS 15 / 16.
 
 [Download](https://github.com/K58/fix-signal-oneplus13/releases)
 
+> [!CAUTION]
+> **PSA: Anti-Rollback Protection**
+>
+> OnePlus has implemented anti-rollback protection starting with firmware version **16.0.3.50x**.
+>
+> If you are on **16.0.3.50x or higher**, **DO NOT downgrade** to any earlier version (specifically the `xbl` bootloader partition):
+> * This will cause a **HARD BRICK**.
+> * **Leaked EDL tools will not work.** Anti-rollback is specifically designed to block them.
+> * Only official/authorized EDL access can fix this state.
+>
+> Please be careful when flashing any ROMs.
+>
+> ~~Never Settle.~~ **Sometimes Settle.**
+
 ## Tutorial
 
 ### How to fix signal
@@ -61,6 +75,7 @@ Your device will **brick** if you relock the bootloader with any modifications t
 - [@docnok63](https://xdaforums.com/m/docnok63.4967345/)
 
 - [rapperskull](https://github.com/rapperskull)
+
 
 
 
