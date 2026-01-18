@@ -50,8 +50,6 @@ Your device will **brick** if you relock the bootloader with any modifications t
 
 > [!CAUTION]
 > **This module is for rooted users. You **MUST** keep your bootloader unlocked. Do NOT lock the bootloader.** <br>
-> **This module is for rooted users. You **MUST** keep your bootloader unlocked. Do NOT lock the bootloader.** <br>
-> **This module is for rooted users. You **MUST** keep your bootloader unlocked. Do NOT lock the bootloader.**
 > 
 > To relock the bootloader, you **MUST** remove root and restore the device to stock state.<br>
 > **Relocking the bootloader is a dangerous operation.** Do not relock your bootloader unless you fully understand what you are doing.<br>
@@ -75,14 +73,3 @@ Your device will **brick** if you relock the bootloader with any modifications t
 - [@docnok63](https://xdaforums.com/m/docnok63.4967345/)
 
 - [rapperskull](https://github.com/rapperskull)
-
-
-
-
-
-
-
-
-
-
-
