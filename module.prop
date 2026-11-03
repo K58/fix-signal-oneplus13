@@ -3,5 +3,5 @@ name=Fixes for OnePlus 13
 version=v4.1
 versionCode=401
 author=Fly
-description=Fix signal for OnePlus 13 CN on OxygenOS 16. **To fix bootloop on OxygenOS 15, press "Action" below before you click the "Reboot" after finishing OTA System Update.**
+description=Fix signal for OnePlus 13 CN on OxygenOS / ColorOS 16-17. **To fix bootloop on OxygenOS 15, press "Action" below before you click the "Reboot" after finishing OTA System Update.**
 updateJson=https://raw.githubusercontent.com/K58/fix-signal-oneplus13/main/update.json
